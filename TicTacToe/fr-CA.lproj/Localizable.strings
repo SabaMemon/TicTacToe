@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  TicTacToe
+
+  Created by Saba Memon on 2020-02-11.
+  Copyright © 2020 Saba Memon. All rights reserved.
+*/
+
+"Button clicked" = "Bouton touché";
+"Result" = "Résultat";
+"\(self.winner) wins" = "\(self.winner) gagne";
+"Play again?" = "Joue encore?";
+"Whose turn?" = "Qui est le tour?";
+"Player" = "Joueur";
